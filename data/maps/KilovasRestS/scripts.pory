@@ -1,0 +1,22 @@
+mapscripts KilovasRestS_MapScripts {}
+
+
+# Script for Buddy's Sign
+
+# Lock all movement while the message is displayed
+lockall
+
+# Display the message from the string "Buddys_sign_Text_0"
+msgbox 0x8000 'Buddys_sign_Text_0'
+
+# Release all locks after the message is displayed
+releaseall
+
+# Return from the script
+return
+
+# String for Buddy's Sign Text
+# Offset: 0x8000
+# Text: "Here rests Buddy. Miss you."
+.Buddys_sign_Text_0
+    string "Here rests Buddy. Miss you."
