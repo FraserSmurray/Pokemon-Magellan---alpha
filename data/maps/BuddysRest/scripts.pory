@@ -1,0 +1,17 @@
+mapscripts NewMap1_MapScripts {
+
+
+
+Buddys_sign::
+	lockall
+	msgbox Buddys_sign_Text_0
+	releaseall
+	return
+
+
+Buddys_sign_Text_0:
+	.string "Here rests Buddy. Miss you.$"
+
+
+
+}

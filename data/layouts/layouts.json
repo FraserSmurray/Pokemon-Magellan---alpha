@@ -4410,6 +4410,46 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_KILOAVAS_REST",
+      "name": "KiloavasRest_Layout",
+      "width": 15,
+      "height": 12,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/KiloavasRest/border.bin",
+      "blockdata_filepath": "data/layouts/KiloavasRest/map.bin"
+    },
+    {
+      "id": "LAYOUT_KILOVAS_REST_S",
+      "name": "KilovasRestS_Layout",
+      "width": 15,
+      "height": 50,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Pacifidlog",
+      "border_filepath": "data/layouts/KilovasRestS/border.bin",
+      "blockdata_filepath": "data/layouts/KilovasRestS/map.bin"
+    },
+    {
+      "id": "LAYOUT_KILOAVAS_REST_E",
+      "name": "KiloavasRestE_Layout",
+      "width": 15,
+      "height": 15,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Pacifidlog",
+      "border_filepath": "data/layouts/KiloavasRestE/border.bin",
+      "blockdata_filepath": "data/layouts/KiloavasRestE/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP1",
+      "name": "NewMap1_Layout",
+      "width": 3,
+      "height": 5,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/NewMap1/border.bin",
+      "blockdata_filepath": "data/layouts/NewMap1/map.bin"
     }
   ]
 }
